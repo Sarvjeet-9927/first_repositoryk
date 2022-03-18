@@ -1,0 +1,653 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+#nav
+{
+	width: 100%;
+	height: 100px;
+	position: relative;
+}
+#image
+{
+	position: absolute;
+	left: 100px;
+	top: 20px;
+}
+#menu 
+{
+	right: 20px;
+	padding-top: 30px;
+	float: left;
+	padding-left: 47%	;
+	margin-left: 5%;
+	font-family: arial;
+	display: inline-block;
+	word-spacing: 24px;
+}
+#menu input
+{
+	border-radius: 5px;
+	position: absolute;
+	right: 4%;
+	top: 20%;
+	width:8%;
+	padding: 10px;
+	text-align: center;
+	line-height: 5px;
+}
+.bg-image img
+{
+	width: 1300px;
+	position: relative;
+}
+.AGENCY
+{
+	z-index: 1;
+	color: white;
+	width: 40%;
+	height: 100px;
+	top: 30%;
+	right: 0%;
+	position: absolute;
+
+}
+.para
+{
+	top: 50%;
+	text-align: right;
+	right: 10%;
+	font-family: arial;
+}
+.button input
+{
+	position: absolute;
+	top: 70%;
+	right: 10%;
+	padding: 10px;
+	text-align: center;
+	border-radius: 5px;
+	color: white;
+	font-family: arial;
+	background-color: red;
+}
+ .bg-image #icon1
+{
+	position: absolute;
+	right: 5%;
+	top: 50%;
+	z-index: 1;
+	color: white;
+	font-size: 50px;
+	opacity: 0.4;
+}
+ .bg-image #icon2
+{
+	position: absolute;
+	left: 5%;
+	top: 50%;
+	z-index: 1;
+	color: white;
+	font-size: 50px;
+	opacity: 0.4;
+}
+/*section second start here*/
+#sec1
+{
+	height: 350px;
+	position: relative;
+}
+#logo1
+{
+	position: absolute;
+	left: 30%;
+	top: 15%;
+}
+#logo2
+{
+	position: absolute;
+	left: 30%;
+	top:50px;
+}
+#logo3
+{
+	position: absolute;
+	left: 34%;
+	top:50px;
+}
+#box1
+{
+	width: 25%;
+	height: 350px;
+	left: 10%;
+	position: absolute;
+}
+#box2
+{
+	width: 25%;
+	height: 350px;
+	left: 40%;
+	position: absolute;
+}
+#box3
+{
+	width: 25%;
+	height: 350px;
+	left: 70%;
+	position: absolute;
+	
+}
+.text h3{
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-left: 30px;
+	font-size: 22px;
+}
+.text p{
+	padding-left: 0px;
+	text-align-last: center;
+	color: gray;
+}
+.text
+{
+	position: absolute;
+	top: 40%;
+	left: 10%;
+}
+/*Third section start here*/
+#sec2
+{
+	height: 500px;
+	background-color: #ccc;
+	position: relative;
+}
+#sec2 p
+{
+	color: gray;
+	width: 100%;
+	padding-top: 10px;
+	font-family: arial;
+	font-size: 15px;
+
+}
+#sec2 h3
+{
+	padding-top: 17px;
+}
+#inner-sec1  h1
+{
+	font-size: 60px;
+}
+#sec2 p:last-of-type
+{
+	font-weight: bold;
+	color: black;
+	padding-top: 8%;
+
+}
+.inner-sec
+{
+	position: absolute;
+	height: 300px;
+	width: 20%;
+	
+}
+#inner-sec1
+{
+	left: 7%;
+	top: 15%;
+}
+
+#inner-sec2
+{
+	left: 29%;
+	top: 15%;
+}
+
+#inner-sec3
+{
+	left: 51%;
+	top: 15%;
+}
+#inner-sec4
+{
+	left: 73%;
+	top: 15%;
+}
+#sec2 img
+{
+	width: 250px;
+	border-radius: 10px;
+}
+.underline
+{
+	text-decoration: underline;
+	text-decoration-color: red;
+	text-underline-offset: 8px;
+	text-decoration-thickness: 3px; 
+}
+/*Section 4th start here*/
+#sec3
+{
+	opacity: 2;
+	position: relative;
+
+}
+#inner-sec3-1 
+{
+	left: 10%;
+	
+}
+#inner-sec3-2 
+{
+	left: 40%;
+}
+#inner-sec3-3 
+{
+	left: 70%;
+}
+.inner-sec3
+{
+	z-index: 1;
+	position: absolute;
+	top: 20%;
+	width: 25%;
+	height: 70%;
+}
+#sec3 p:last-of-type
+{
+	color: white;	
+	font-size: 16px;
+	padding-left: 5px;
+	padding-top: 10px;
+	font-family: arial;
+}
+#sec3 p
+{
+	color: white;
+	font-size: 80px;
+	z-index: 2;
+	font-weight: bold;
+	padding-left: 80px;
+	text-align: center;
+}
+/*5th Section*/
+#sec4
+{
+	height: 800px;
+	position: relative;
+}
+h1
+{
+	font-size: 60px;
+	text-align: center;
+	padding-top: 5%;
+	padding-bottom: 2%;
+}
+#sec4 p
+{
+	text-align: center;
+	color: gray;
+	font-size: 16px;
+	font-family: arial;
+}
+#image1
+{
+	width: 18%;
+	height: 60%;
+	top: 35%;
+	left: 10%;
+	position: absolute;
+}
+.facebook
+{
+	position: absolute;
+/*	left: 10%;
+*/	top: 80%;
+	word-spacing: 5px;
+}
+#image2
+{
+	width: 18%;
+	height: 60%;
+	top: 35%;
+	left: 31%;
+	position: absolute;
+}
+#image3
+{
+	width: 18%;
+	height: 60%;
+	top: 35%;
+	left: 52%;
+	position: absolute;
+}
+#image4
+{
+	width: 18%;
+	height: 60%;
+	top: 35%;
+	left: 73%;
+	position: absolute;
+}
+#sec4 img
+{
+	width: 240px;
+	border-radius: 8px;
+}
+h5
+{
+	padding-top: 8px;
+	font-family: arial;
+}
+#image1 p
+{
+	color: gray;
+	font-size: 13px;
+	padding-top: 7px;
+	text-align: left;
+	padding-bottom: 10px;
+}
+#image2 p
+{
+	color: gray;
+	font-size: 13px;
+	padding-top: 7px;
+	text-align: left;
+}
+#image3 p
+{
+	color: gray;
+	font-size: 13px;
+	padding-top: 7px;
+	text-align: left;
+}
+#image4 p
+{
+	color: gray;
+	font-size: 13px;
+	padding-top: 7px;
+	text-align: left;
+}
+.img1
+{
+	position: absolute;
+	top: 70%;
+	left: 40%;
+
+}
+
+.img1 img
+{
+	width: 20px;
+	height: 64px;
+}
+/*5th section start*/
+#sec5
+{
+	height: 800px;
+	background-color: #CCC;
+	position: relative;
+}
+.color1
+{
+	color: red;
+}
+.color2
+{
+	color: white;
+}
+#sec5 img
+{
+	float: right;
+	height: 600px;
+	margin: 80px;
+}
+#sec5 .youtube-icon
+{
+	position: absolute;
+	top: 40%;
+	right:25%;
+	color: red;
+	z-index: 1;
+	font-size: 70px;
+
+}
+#sec5 h2
+{
+	font-size: 60px;
+	text-align: center;
+	padding-top: 5px;
+	font-family: arial;
+}
+.text-container
+{
+	width: 40%;
+	height: 600px;
+	position: absolute;
+	top: 10%;
+	left: 7%;
+}
+#sec5 p
+{
+	color: gray;
+	padding-bottom: 17px;
+	padding-top: 10px;
+	font-size: 16px;
+	font-family: arial;
+	text-align: left;
+}
+#sec5 ul
+{
+	padding-left: 0px;
+	color: gray;
+	padding-bottom: 20px;
+}
+#sec5 h3
+{
+	padding-left: 0px;
+	padding-bottom: 15px;
+}
+/*6th section start here*/
+#sec6
+{
+	height: 900px;
+	position: relative;
+}
+#sec6 h1
+{	
+	text-align: center;
+/*	padding-top: 30px;
+*//*	padding-left: 20%;
+*/}
+#sec6 p
+{
+	text-align: center;
+	color: gray;
+	font-size: 16px;
+	font-family: arial;
+}
+.sec6-box
+{
+	width: 23%;
+	height: 55%;
+	top: 35%;
+	border: 3px solid red;
+	position: absolute;
+	border-radius: 6px;
+}
+#Box1
+{
+	left: 14%;
+}
+#Box2
+{
+	left: 40%;
+	background-color: red;
+}
+#Box3
+{
+	right: 10%;.
+}
+.inside-Box h3
+{
+	text-align: center;
+	padding-left: 4%;
+	padding-top: 7%;
+}
+#Box2 .inside-Box h3
+{
+	text-align: center;
+	padding-left: 4%;
+	padding-top: 7%;
+	color: white;
+}
+#Box1 .inside-Box p
+{
+	color: red;
+	font-size: 75px;
+	padding-top: 20px;
+	
+}
+#Box2 .inside-Box p
+{
+	color: white;
+	font-size: 75px;
+	padding-top: 20px;
+	
+}
+#Box3 .inside-Box p
+{
+	color: red;
+	font-size: 75px;
+	padding-top: 20px;
+	
+}
+#Box1 .inside-Box p:last-of-type
+{
+	color: red;
+	font-size: 14px;
+	padding-top: 0px;
+	padding-bottom: 17%;
+}
+#Box3 .inside-Box p:last-of-type
+{
+	color: red;
+	font-size: 14px;
+	padding-top: 0px;
+	padding-bottom: 17%;
+}
+#Box2 .inside-Box p:last-of-type
+{
+	color: white;
+	font-size: 14px;
+	padding-top: 0px;
+	padding-bottom: 17%;
+}
+
+
+#Box1 .inside-Box ul
+{
+	padding-left: 17%;
+	color: gray;
+	padding-top: 40px;
+}
+#Box2 .inside-Box ul
+{
+	padding-left: 17%;
+	color: white;
+	padding-top: 40px;
+} 
+
+#Box3 .inside-Box ul
+{
+	padding-left: 17%;
+	color: gray;
+	padding-top: 40px;
+} 
+
+hr
+{
+	width: 80%;
+	align: center;
+	margin-left: 8%;
+}
+
+ .inside-Box input
+{
+/*	padding: 7%;
+*/	border-radius: 4px;
+	margin: 19%;
+	border: 2px solid red;
+	padding: 5px;
+	padding-left: 5px;
+	text-align: center;
+	color: red;
+}
+/*7th section start here*/
+.sec7
+{
+	background-color: red;
+	height: 400px;
+	position: relative;
+}
+.inside-sec7 p
+{
+	color: white;
+	text-align: center;
+	font-size: 20px;
+	padding-top: 8%;
+	font-family: arial;
+}
+.inside-sec7 p:last-of-type
+{
+	font-size: 60px;
+	color: white;
+	font-weight: bold;
+	padding-top: 0%;
+	padding-bottom: 5%;
+	text-align: center;
+}
+.inside-sec7 input
+{
+	text-align: center;
+	border: 2px solid white;
+	color: white;
+	font-weight: bold;
+	background-color: red;
+	padding: 8px 5px;
+	border-radius: 5px;
+	margin: auto;
+}
+/*Footer section*/
+.footer
+{
+	height: 100px;
+	background-color: black;
+	position: relative;
+
+}
+.footer img
+{
+	position: absolute;
+	left: 0px;
+	top: 14px;
+}
+.footer .logo
+{
+	position: absolute;
+	top: 20%;
+	left: 43%;
+	opacity: 0.4;
+	word-spacing: 5px;
+	color: white;
+	font-size: 30px;
+}
+.footer .paragraph
+{
+	position: absolute;
+	left: 70%;
+	top: 25%;
+	opacity: 0.4;
+}
